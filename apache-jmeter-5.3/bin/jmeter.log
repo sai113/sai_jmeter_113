@@ -1,0 +1,60 @@
+2020-11-10 12:45:08,005 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2020-11-10 12:45:08,021 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-11-10 12:45:08,024 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: Version 5.3
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: java.version=1.8.0_271
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: os.name=Windows 10
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: os.arch=amd64
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: os.version=10.0
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: java.awt.headless=null
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: Max memory     =5575802880
+2020-11-10 12:45:08,026 INFO o.a.j.JMeter: Available Processors =12
+2020-11-10 12:45:08,030 INFO o.a.j.JMeter: Default Locale=English (India)
+2020-11-10 12:45:08,030 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2020-11-10 12:45:08,030 INFO o.a.j.JMeter: JMeterHome=N:\Download\apache-jmeter-5.3\apache-jmeter-5.3
+2020-11-10 12:45:08,030 INFO o.a.j.JMeter: user.dir  =N:\Download\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-11-10 12:45:08,031 INFO o.a.j.JMeter: PWD       =N:\Download\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-11-10 12:45:08,032 INFO o.a.j.JMeter: IP: 192.168.0.146 Name: SAI FullName: SAI
+2020-11-10 12:45:08,105 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-11-10 12:45:08,458 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-11-10 12:45:12,428 WARN o.j.r.PluginManagerMenuCreator: Was unable to install pmgr cmdline tool
+java.nio.file.NoSuchFileException: N:\Download\apache-jmeter-5.3\bin\PluginsManagerCMD.bat
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.newOutputStream(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.copy(Unknown Source) ~[?:1.8.0_271]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.writeOut(PluginManagerCMDInstaller.java:24) ~[jmeter-plugins-manager-1.4.jar:?]
+	at org.jmeterplugins.repository.PluginManagerCMDInstaller.main(PluginManagerCMDInstaller.java:12) ~[jmeter-plugins-manager-1.4.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuCreator.getMenuItemsAtLocation(PluginManagerMenuCreator.java:16) [jmeter-plugins-manager-1.4.jar:?]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.addPluginsMenuItems(JMeterMenuBar.java:591) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.makeOptionsMenu(JMeterMenuBar.java:339) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.createMenuBar(JMeterMenuBar.java:203) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.util.JMeterMenuBar.<init>(JMeterMenuBar.java:118) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.MainFrame.init(MainFrame.java:514) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.gui.MainFrame.<init>(MainFrame.java:231) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.JMeter.startGui(JMeter.java:400) [ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:547) [ApacheJMeter_core.jar:5.3]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:252) [ApacheJMeter.jar:5.3]
+2020-11-10 12:45:12,456 WARN o.j.r.PluginManager: Found JAR conflict: N:\Download\apache-jmeter-5.3\apache-jmeter-5.3\lib\ext\jmeter-plugins-manager-1.4.jar and N:\Download\apache-jmeter-5.3\apache-jmeter-5.3\lib\jmeter-plugins-manager-1.4.jar
+2020-11-10 12:45:12,854 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-8f0ae19743cd3bc2e20655d717b2bc84-gui
+2020-11-10 12:45:15,205 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-11-10 12:45:15,208 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file N:\Download\apache-jmeter-5.3\apache-jmeter-5.3\bin\proxyserver.jks
+2020-11-10 12:45:15,289 INFO c.b.j.c.CorrelationProxyControlGui: bzm - Correlation Recorder Test Plan Template installed
+2020-11-10 12:45:15,293 INFO c.b.j.c.CorrelationProxyControlGui: Siebel Correlation's Template installed
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-11-10 12:45:15,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-11-10 12:45:15,922 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jmeter.backendlistener.azure=0.2.3, bzm-siebel=1.1.1, bzm-hls=3.0.3, bzm-rte=3.1, blazemeter-debugger=0.6, jpgc-sense=3.5, netflix-cassandra=0.2-SNAPSHOT, jpgc-cmd=2.2, jpgc-graphs-composite=2.0, jpgc-functions=2.1, custom-soap=1.3.3, jpgc-casutg=2.9, jpgc-dbmon=0.1, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-ggl=2.0, tilln-formman=1.0, jpgc-httpraw=0.1, jpgc-sts=2.4, mqmeter=2.1.0, jpgc-fifo=0.2, jmeter.pack-listener=1.7, bzm-parallel=0.9, jpgc-perfmon=2.1, jpgc-plugins-manager=1.4, jpgc-webdriver=3.3, jpgc-tst=2.5, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3, jpgc-standard=2.0]

@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1600078526354,2723,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-1,,true,,36151,2634,5,5,null,0,84,498
+1600078526356,691,/-5,200,OK,blaze demo 1-1,text,true,,1479,684,4,4,https://blazedemo.com/,248,0,9
+1600078527049,600,/url/status-20,200,OK,blaze demo 1-1,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,600,0,489
+1600078527650,356,/-21,200,OK,blaze demo 1-1,text,true,,1347,346,5,5,https://blazedemo.com/,349,0,0
+1600078528006,237,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-1,text,true,,1577,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,231,0,0
+1600078528243,272,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-1,text,true,,8810,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,246,0,0
+1600078528516,338,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-1,text,true,,22329,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,248,0,0
+1600078528932,229,/favicon.ico-28,200,OK,blaze demo 1-1,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,229,0,0
+1600078526555,2941,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-2,,true,,36202,2634,5,5,null,0,68,329
+1600078526555,667,/-5,200,OK,blaze demo 1-2,text,true,,1591,684,5,5,https://blazedemo.com/,237,0,5
+1600078527223,433,/url/status-20,200,OK,blaze demo 1-2,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,433,0,324
+1600078527657,508,/-21,200,OK,blaze demo 1-2,text,true,,1285,346,5,5,https://blazedemo.com/,508,0,0
+1600078528165,245,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-2,text,true,,1351,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,243,0,0
+1600078528410,430,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-2,text,true,,9080,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,411,0,0
+1600078528840,298,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-2,text,true,,22286,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,245,0,0
+1600078529204,360,/favicon.ico-28,200,OK,blaze demo 1-2,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,360,0,0
+1600078526952,2581,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-4,,true,,36007,2634,5,5,null,0,41,334
+1600078526953,662,/-5,200,OK,blaze demo 1-4,text,true,,1533,684,5,5,https://blazedemo.com/,240,0,5
+1600078527616,439,/url/status-20,200,OK,blaze demo 1-4,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,439,0,329
+1600078528055,385,/-21,200,OK,blaze demo 1-4,text,true,,1447,346,5,5,https://blazedemo.com/,381,0,0
+1600078528441,236,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-4,text,true,,1403,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,231,0,0
+1600078528678,280,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-4,text,true,,9035,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,254,0,0
+1600078528958,347,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-4,text,true,,21980,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,254,0,0
+1600078529342,232,/favicon.ico-28,200,OK,blaze demo 1-4,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,232,0,0
+1600078527155,2523,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-5,,true,,35829,2634,5,5,null,0,82,333
+1600078527155,663,/-5,200,OK,blaze demo 1-5,text,true,,1537,684,5,5,https://blazedemo.com/,237,0,4
+1600078527819,440,/url/status-20,200,OK,blaze demo 1-5,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,440,0,329
+1600078528260,347,/-21,200,OK,blaze demo 1-5,text,true,,1327,346,5,5,https://blazedemo.com/,342,0,0
+1600078528608,235,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-5,text,true,,1364,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,231,0,0
+1600078528843,262,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-5,text,true,,8881,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,239,0,0
+1600078529105,325,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-5,text,true,,22111,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,241,0,0
+1600078529509,251,/favicon.ico-28,200,OK,blaze demo 1-5,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,251,0,0
+1600078529162,628,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-1,,true,,9845,837,5,5,null,0,0,0
+1600078529162,360,/reserve.php-30,200,OK,blaze demo 1-1,text,true,,1347,525,5,5,https://blazedemo.com/reserve.php,353,0,0
+1600078529522,268,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-1,text,true,,8498,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,244,0,0
+1600078529564,662,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-2,,true,,10179,838,5,5,null,0,1,0
+1600078529565,397,/reserve.php-30,200,OK,blaze demo 1-2,text,true,,1499,526,5,5,https://blazedemo.com/reserve.php,392,0,0
+1600078529962,265,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-2,text,true,,8680,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,247,0,0
+1600078529574,664,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-4,,true,,9941,837,5,5,null,0,1,0
+1600078529575,386,/reserve.php-30,200,OK,blaze demo 1-4,text,true,,1504,525,5,5,https://blazedemo.com/reserve.php,382,0,0
+1600078529961,278,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-4,text,true,,8437,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,252,0,0
+1600078529790,464,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-1,,true,,1948,993,5,5,null,0,0,0
+1600078529790,109,/url/status-32,200,OK,blaze demo 1-1,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078529899,355,/purchase.php-33,200,OK,blaze demo 1-1,text,true,,1572,583,5,5,https://blazedemo.com/purchase.php,350,0,0
+1600078529760,609,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-5,,true,,9889,830,5,5,null,0,0,0
+1600078529760,345,/reserve.php-30,200,OK,blaze demo 1-5,text,true,,1424,518,5,5,https://blazedemo.com/reserve.php,338,0,0
+1600078530105,264,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-5,text,true,,8465,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,240,0,0
+1600078530227,585,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-2,,true,,2092,993,5,5,null,0,1,0
+1600078530228,110,/url/status-32,200,OK,blaze demo 1-2,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,110,0,0
+1600078530338,475,/purchase.php-33,200,OK,blaze demo 1-2,text,true,,1716,583,5,5,https://blazedemo.com/purchase.php,470,0,0
+1600078530239,595,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-4,,true,,2060,993,5,5,null,0,1,0
+1600078530240,108,/url/status-32,200,OK,blaze demo 1-4,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,108,0,0
+1600078530348,487,/purchase.php-33,200,OK,blaze demo 1-4,text,true,,1684,583,5,5,https://blazedemo.com/purchase.php,481,0,0
+1600078530369,548,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-5,,true,,1981,993,5,5,null,0,0,0
+1600078530369,113,/url/status-32,200,OK,blaze demo 1-5,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,112,0,0
+1600078530482,435,/purchase.php-33,200,OK,blaze demo 1-5,text,true,,1605,583,5,5,https://blazedemo.com/purchase.php,428,0,0
+1600078526753,4948,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-3,,true,,36223,2634,5,5,null,0,6,334
+1600078526753,1653,/-5,200,OK,blaze demo 1-3,text,true,,1454,684,5,5,https://blazedemo.com/,238,0,5
+1600078528407,441,/url/status-20,200,OK,blaze demo 1-3,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,441,0,329
+1600078528848,336,/-21,200,OK,blaze demo 1-3,text,true,,1472,346,5,5,https://blazedemo.com/,336,0,0
+1600078529184,915,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-3,text,true,,1391,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,914,0,0
+1600078530099,310,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-3,text,true,,9089,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,292,0,0
+1600078530409,1044,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-3,text,true,,22208,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,854,0,0
+1600078531458,249,/favicon.ico-28,200,OK,blaze demo 1-3,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,249,0,0
+1600078531707,1176,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-3,,true,,9801,846,5,5,null,0,1,0
+1600078531707,347,/reserve.php-30,200,OK,blaze demo 1-3,text,true,,1404,534,5,5,https://blazedemo.com/reserve.php,342,0,0
+1600078532055,829,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-3,text,true,,8397,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,810,0,0
+1600078532884,468,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-3,,true,,1967,993,5,5,null,0,1,0
+1600078532884,111,/url/status-32,200,OK,blaze demo 1-3,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,111,0,0
+1600078532995,357,/purchase.php-33,200,OK,blaze demo 1-3,text,true,,1591,583,5,5,https://blazedemo.com/purchase.php,357,0,0
+1600078530918,11070,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-5,,false,,3947,1069,5,5,null,0,2,10557
+1600078530813,11175,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-2,,false,,3881,1069,5,5,null,0,2,10668
+1600078530255,11732,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-1,,false,,4145,1069,5,5,null,0,3,11146
+1600078530836,11152,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-4,,false,,3900,1069,5,5,null,0,2,10625
+1600078530918,109,/url/status-34,200,OK,blaze demo 1-5,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078530813,109,/url/status-34,200,OK,blaze demo 1-2,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078530255,113,/url/status-34,200,OK,blaze demo 1-1,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,113,0,0
+1600078531027,404,/confirmation.php-35,200,OK,blaze demo 1-5,text,true,,1474,655,5,5,https://blazedemo.com/confirmation.php,399,0,0
+1600078530836,108,/url/status-34,200,OK,blaze demo 1-4,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,108,0,0
+1600078533353,8634,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-3,,false,,3914,1069,5,5,null,0,3,7637
+1600078530922,398,/confirmation.php-35,200,OK,blaze demo 1-2,text,true,,1408,655,5,5,https://blazedemo.com/confirmation.php,395,0,0
+1600078530945,419,/confirmation.php-35,200,OK,blaze demo 1-4,text,true,,1427,655,5,5,https://blazedemo.com/confirmation.php,418,0,0
+1600078531432,10557,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-5,text,false,,2097,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,10557
+1600078533353,111,/url/status-34,200,OK,blaze demo 1-3,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,111,0,0
+1600078531364,10625,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-4,text,false,,2097,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,10625
+1600078531321,10668,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-2,text,false,,2097,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,10668
+1600078533465,886,/confirmation.php-35,200,OK,blaze demo 1-3,text,true,,1441,655,5,5,https://blazedemo.com/confirmation.php,886,0,0
+1600078530369,472,/confirmation.php-35,200,OK,blaze demo 1-1,text,true,,1476,655,5,5,https://blazedemo.com/confirmation.php,472,0,0
+1600078534352,7637,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-3,text,false,,2097,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,7637
+1600078530842,11147,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-1,text,false,,2293,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,11146
+1600078541992,2477,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-4,,true,,36337,2634,5,5,null,0,38,0
+1600078541992,876,/-5,200,OK,blaze demo 1-4,text,true,,1582,684,5,5,https://blazedemo.com/,240,0,0
+1600078542869,123,/url/status-20,200,OK,blaze demo 1-4,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,123,0,0
+1600078542993,381,/-21,200,OK,blaze demo 1-4,text,true,,1441,346,5,5,https://blazedemo.com/,377,0,0
+1600078543374,249,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-4,text,true,,1536,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,244,0,0
+1600078543623,275,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-4,text,true,,9008,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,242,0,0
+1600078543898,338,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-4,text,true,,22161,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,250,0,0
+1600078544272,235,/favicon.ico-28,200,OK,blaze demo 1-4,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,235,0,0
+1600078541991,2651,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-2,,true,,35920,2634,5,5,null,0,98,0
+1600078541991,934,/-5,200,OK,blaze demo 1-2,text,true,,1446,684,5,5,https://blazedemo.com/,252,0,0
+1600078542925,169,/url/status-20,200,OK,blaze demo 1-2,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,169,0,0
+1600078543095,519,/-21,200,OK,blaze demo 1-2,text,true,,1453,346,5,5,https://blazedemo.com/,515,0,0
+1600078543614,239,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-2,text,true,,1325,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,236,0,0
+1600078543854,261,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-2,text,true,,9262,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,246,0,0
+1600078544115,293,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-2,text,true,,21825,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,246,0,0
+1600078544504,236,/favicon.ico-28,200,OK,blaze demo 1-2,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,236,0,0
+1600078541993,2752,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-1,,true,,36059,2634,5,5,null,0,72,0
+1600078541993,939,/-5,200,OK,blaze demo 1-1,text,true,,1557,684,5,5,https://blazedemo.com/,248,0,0
+1600078542932,163,/url/status-20,200,OK,blaze demo 1-1,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,163,0,0
+1600078543095,549,/-21,200,OK,blaze demo 1-1,text,true,,1379,346,5,5,https://blazedemo.com/,543,0,0
+1600078543644,242,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-1,text,true,,1453,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,239,0,0
+1600078543887,285,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-1,text,true,,9076,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,258,0,0
+1600078544172,339,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-1,text,true,,21985,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,252,0,0
+1600078544582,235,/favicon.ico-28,200,OK,blaze demo 1-1,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,235,0,0
+1600078541993,2754,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-5,,true,,36360,2634,5,5,null,0,77,0
+1600078541993,944,/-5,200,OK,blaze demo 1-5,text,true,,1568,684,5,5,https://blazedemo.com/,239,0,0
+1600078542938,180,/url/status-20,200,OK,blaze demo 1-5,text,true,,377,398,5,5,https://nimbus.bitdefender.net/url/status,180,0,0
+1600078543118,561,/-21,200,OK,blaze demo 1-5,text,true,,1273,346,5,5,https://blazedemo.com/,556,0,0
+1600078543679,238,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-5,text,true,,1485,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,232,0,0
+1600078543918,272,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-5,text,true,,9188,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,240,0,0
+1600078544190,312,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-5,text,true,,22236,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,238,0,0
+1600078544577,247,/favicon.ico-28,200,OK,blaze demo 1-5,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,247,0,0
+1600078544507,635,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-4,,true,,10184,832,5,5,null,0,1,0
+1600078544507,359,/reserve.php-30,200,OK,blaze demo 1-4,text,true,,1563,520,5,5,https://blazedemo.com/reserve.php,354,0,0
+1600078544867,276,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-4,text,true,,8621,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,252,0,0
+1600078541992,3311,home page,200,"Number of samples in transaction : 7, number of failing samples : 0",blaze demo 1-3,,true,,36342,2634,5,5,null,0,82,0
+1600078541992,934,/-5,200,OK,blaze demo 1-3,text,true,,1547,684,5,5,https://blazedemo.com/,240,0,0
+1600078542926,169,/url/status-20,200,OK,blaze demo 1-3,text,true,,376,398,5,5,https://nimbus.bitdefender.net/url/status,169,0,0
+1600078543095,590,/-21,200,OK,blaze demo 1-3,text,true,,1363,346,5,5,https://blazedemo.com/,590,0,0
+1600078543686,567,/assets/bootstrap-table.css-25,200,OK,blaze demo 1-3,text,true,,1410,319,5,5,https://blazedemo.com/assets/bootstrap-table.css,566,0,0
+1600078544253,267,/assets/bootstrap-table.js-23,200,OK,blaze demo 1-3,text,true,,8977,303,5,5,https://blazedemo.com/assets/bootstrap-table.js,243,0,0
+1600078544520,543,/assets/bootstrap.min.css-24,200,OK,blaze demo 1-3,text,true,,22436,317,5,5,https://blazedemo.com/assets/bootstrap.min.css,349,0,0
+1600078545144,241,/favicon.ico-28,200,OK,blaze demo 1-3,bin,true,,233,267,5,5,https://blazedemo.com/favicon.ico,241,0,0
+1600078544817,658,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-1,,true,,9873,837,5,5,null,0,0,0
+1600078544817,393,/reserve.php-30,200,OK,blaze demo 1-1,text,true,,1352,525,5,5,https://blazedemo.com/reserve.php,390,0,0
+1600078545210,265,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-1,text,true,,8521,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,247,0,0
+1600078544824,655,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-5,,true,,10031,834,5,5,null,0,0,0
+1600078544824,392,/reserve.php-30,200,OK,blaze demo 1-5,text,true,,1560,522,5,5,https://blazedemo.com/reserve.php,388,0,0
+1600078545216,263,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-5,text,true,,8471,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,241,0,0
+1600078545143,463,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-4,,true,,1947,993,5,5,null,0,1,0
+1600078545143,111,/url/status-32,200,OK,blaze demo 1-4,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,111,0,0
+1600078545254,352,/purchase.php-33,200,OK,blaze demo 1-4,text,true,,1571,583,5,5,https://blazedemo.com/purchase.php,346,0,0
+1600078545475,537,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-1,,true,,2138,993,5,5,null,0,1,0
+1600078545475,109,/url/status-32,200,OK,blaze demo 1-1,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078545585,428,/purchase.php-33,200,OK,blaze demo 1-1,text,true,,1762,583,5,5,https://blazedemo.com/purchase.php,422,0,0
+1600078545479,538,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-5,,true,,2106,993,5,5,null,0,0,0
+1600078545479,109,/url/status-32,200,OK,blaze demo 1-5,text,true,,376,410,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078545588,429,/purchase.php-33,200,OK,blaze demo 1-5,text,true,,1730,583,5,5,https://blazedemo.com/purchase.php,422,0,0
+1600078545385,664,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-3,,true,,9902,844,5,5,null,0,0,0
+1600078545385,403,/reserve.php-30,200,OK,blaze demo 1-3,text,true,,1376,532,5,5,https://blazedemo.com/reserve.php,395,0,0
+1600078545788,261,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-3,text,true,,8526,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,238,0,0
+1600078544741,1353,find flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-2,,true,,9571,832,5,5,null,0,0,0
+1600078544741,1102,/reserve.php-30,200,OK,blaze demo 1-2,text,true,,1362,520,5,5,https://blazedemo.com/reserve.php,1102,0,0
+1600078545843,251,/assets/bootstrap.min.js-31,200,OK,blaze demo 1-2,text,true,,8209,312,5,5,https://blazedemo.com/assets/bootstrap.min.js,235,0,0
+1600078545607,487,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-4,,false,,3943,1069,5,5,null,0,1,0
+1600078545607,109,/url/status-34,200,OK,blaze demo 1-4,text,true,,376,414,5,5,https://nimbus.bitdefender.net/url/status,109,0,0
+1600078545717,378,/confirmation.php-35,200,OK,blaze demo 1-4,text,true,,1470,655,5,5,https://blazedemo.com/confirmation.php,371,0,0
+1600078546095,0,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-4,text,false,,2097,0,5,5,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,0
+1600078546017,559,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-5,,false,,4034,1069,4,4,null,0,0,0
+1600078546017,110,/url/status-34,200,OK,blaze demo 1-5,text,true,,376,414,4,4,https://nimbus.bitdefender.net/url/status,110,0,0
+1600078546127,449,/confirmation.php-35,200,OK,blaze demo 1-5,text,true,,1561,655,4,4,https://blazedemo.com/confirmation.php,445,0,0
+1600078546576,0,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-5,text,false,,2097,0,4,4,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,0
+1600078546013,579,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-1,,false,,3830,1069,3,3,null,0,1,1
+1600078546013,110,/url/status-34,200,OK,blaze demo 1-1,text,true,,376,414,4,4,https://nimbus.bitdefender.net/url/status,110,0,0
+1600078546124,468,/confirmation.php-35,200,OK,blaze demo 1-1,text,true,,1357,655,3,3,https://blazedemo.com/confirmation.php,461,0,0
+1600078546592,1,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-1,text,false,,2097,0,3,3,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,1
+1600078546049,577,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-3,,true,,2105,993,2,2,null,0,2,0
+1600078546050,108,/url/status-32,200,OK,blaze demo 1-3,text,true,,376,410,4,4,https://nimbus.bitdefender.net/url/status,108,0,0
+1600078546159,469,/purchase.php-33,200,OK,blaze demo 1-3,text,true,,1729,583,2,2,https://blazedemo.com/purchase.php,462,0,0
+1600078546628,488,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-3,,false,,3969,1069,2,2,null,0,2,0
+1600078546629,108,/url/status-34,200,OK,blaze demo 1-3,text,true,,376,414,2,2,https://nimbus.bitdefender.net/url/status,108,0,0
+1600078546737,380,/confirmation.php-35,200,OK,blaze demo 1-3,text,true,,1496,655,2,2,https://blazedemo.com/confirmation.php,374,0,0
+1600078547118,0,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-3,text,false,,2097,0,2,2,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,0
+1600078546094,1060,choose this flight,200,"Number of samples in transaction : 2, number of failing samples : 0",blaze demo 1-2,,true,,1968,993,1,1,null,0,0,0
+1600078546094,108,/url/status-32,200,OK,blaze demo 1-2,text,true,,376,410,4,4,https://nimbus.bitdefender.net/url/status,108,0,0
+1600078546202,952,/purchase.php-33,200,OK,blaze demo 1-2,text,true,,1592,583,1,1,https://blazedemo.com/purchase.php,951,0,0
+1600078547154,482,purchase fligt,Non HTTP response code: java.net.UnknownHostException,"Number of samples in transaction : 3, number of failing samples : 1",blaze demo 1-2,,false,,3837,1069,1,1,null,0,0,0
+1600078547154,116,/url/status-34,200,OK,blaze demo 1-2,text,true,,376,414,1,1,https://nimbus.bitdefender.net/url/status,116,0,0
+1600078547270,366,/confirmation.php-35,200,OK,blaze demo 1-2,text,true,,1364,655,1,1,https://blazedemo.com/confirmation.php,365,0,0
+1600078547636,0,/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml-36,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: aus5.mozilla.org,blaze demo 1-2,text,false,,2097,0,1,1,https://aus5.mozilla.org/update/3/GMP/80.0.1/20200831163820/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19041.450%20(x64)/default/default/update.xml,0,0,0
