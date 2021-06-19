@@ -1,0 +1,47 @@
+import java.text.*;
+import java.io.*;
+import java.util.*;
+
+String filename = "win.csv";
+
+ArrayList strList = new ArrayList();     
+
+try {
+    File file = new File(filename);
+
+    if (!file.exists()) {
+        throw new Exception ("ERROR: file " + filename + " not found");
+    }
+
+    BufferedReader bufRdr = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF8"));
+    String line = null;
+    Integer i = 0;
+
+    while((line = bufRdr.readLine()) != null) {
+        strList.add(line);
+        i++;
+    }
+
+    bufRdr.close();            
+    counter = Integer.parseInt(vars.get("counter"));
+if(file.exists()){
+	    String[] variables = strList.get(counter).split(",");
+	    vars.put("winnumber",variables[0]);
+	    vars.put("store",variables[1]);
+	    counter++;
+	    vars.put("counter",Integer.toString(counter));
+}
+    else {
+    	    vars.put("answer","<EOF>");
+    	    vars.put("eol","<EOF>");
+    	    vars.put("counter","0");
+    }
+}
+catch (Exception ex) {
+    IsSuccess = false; 
+    log.error(ex.getMessage());
+    System.err.println(ex.getMessage());
+}
+catch (Throwable thex) {
+    System.err.println(thex.getMessage());
+}
